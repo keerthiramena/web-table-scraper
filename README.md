@@ -1,5 +1,3 @@
-# web-table-scraper
-A Python notebook for scraping structured tables from websites using BeautifulSoup and pandas.
 # Web Table Scraper
 
 This repository contains a Jupyter Notebook that demonstrates how to scrape structured HTML tables from websites using Python.
